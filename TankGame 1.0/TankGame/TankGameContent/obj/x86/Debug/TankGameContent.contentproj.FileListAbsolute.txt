@@ -1,0 +1,11 @@
+E:\Users\Anthony\Documents\Visual Studio 2010\Projects\TankGame\TankGame\TankGameContent\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\OOP\TankGame\TankGame\TankGameContent\obj\x86\Debug\TankGameContent.contentprojResolveAssemblyReference.cache
+L:\OOP\TankGame\TankGame\TankGameContent\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\OOP\TankGame\TankGame\TankGameContent\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\OOP\TankGame\TankGame\TankGameContent\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Users\Anthony\Desktop\USB BackUp 18-04-13\OOP\TankGame\TankGame\TankGameContent\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Users\Anthony\Desktop\USB BackUp 18-04-13\OOP\TankGame 1.1\TankGame\TankGameContent\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Users\Anthony\Desktop\USB BackUp 18-04-13\OOP\TankGame 1.2\TankGame 1.1\TankGame\TankGameContent\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\OOP\TankGame 1.2\TankGame 1.1\TankGame\TankGameContent\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\OOP\TankGame 1.2\TankGame 1.2\TankGame\TankGameContent\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\OOP\TankGame 1.2\TankGame 1.2\TankGame\TankGameContent\obj\x86\Debug\TankGameContent.contentprojResolveAssemblyReference.cache
