@@ -1,33 +1,31 @@
-Unzip and open in VS10+
+#C\# Tank Game
 
-OOP assignment: Overview of TankGame
+###Overview
+This was a project as part of Object Orietated programming module in second year of Computer Science course.
+It used the (now deprecated) XNA game library for Visual Studio and was done to learn the basic principles of OO programming as well as elements of game programming. 
+The player tank model was created in  
+The project involved the use of heightmaps to generate terrain as well as some simple physics for the player controlled tank to move over it smoothly.
+It also included some basic collision detection in the form of the tank not being able to move past the walls in the terrain, as well as projectile interaction with enemy tanks.
+A build exists [here](https://github.com/antohayden/tankGame/tree/master/TankGame%201.0/TankGame/TankGame/publish)
 
-Description:
-
+###Description:
 3-D FPS: Player is situatated within a tank. Object is to kill as many enemies as possible before dying.
 
 
-Controls:
+###Controls:
 Targeting is controlled by mouse movement.
-W: Forward
-A: Turn Left
-S: Back
-D: Turn Right
-LeftClick: Fire Bullet
+**W**: Forward
+**A**: Turn Left
+**S**: Back
+**D**: Turn Right
+**LeftClick**: Fire Bullet
+
 Bullets have a 2 second reload timer.
 
-Note:
+##Note:
+The game is unfinished and there are some missing graphics and functionality. 
 Enemies do not emit a projectile when firing. Simply the act of being in "firing range" will cause the firing
 sound to play and the player to take damage ( even if the enemy is facing away from play ).
-
-Scores are saved to a text file on the local hard drive ( normally found in C:\scores.txt ).
-
-Known Issues/Bugs:
-1: Rarely on build, the camera will float to one side of screen. Requires restart.
-2: Rarely, the players health will drop from a single enemies shot
-3: Occasionally, the enemies will loop around the terrain edges. AI problem, will correct if the player is near.
-4: Enemies, when following a player will "jitter" when trying adjust the direction they need to move
-
-
+Scores are saved to a text file within the exe folder
 
 
