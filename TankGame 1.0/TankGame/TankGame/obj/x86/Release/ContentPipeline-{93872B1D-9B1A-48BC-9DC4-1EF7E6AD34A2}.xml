@@ -1,0 +1,574 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline" xmlns:Framework="Microsoft.Xna.Framework" xmlns:Processors="Microsoft.Xna.Framework.Content.Pipeline.Processors">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>LoadMenuImg\BackGround.bmp</Source>
+      <Name>LoadMenuImg\BackGround</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\antoh\Documents\GitHub\tankGame\TankGame 1.0\TankGame\TankGame\bin\x86\Release\Content\LoadMenuImg\BackGround.xnb</Output>
+      <Time>2013-02-25T02:22:22+00:00</Time>
+    </Item>
+    <Item>
+      <Source>LoadMenuImg\LoadGame1.bmp</Source>
+      <Name>LoadMenuImg\LoadGame1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\antoh\Documents\GitHub\tankGame\TankGame 1.0\TankGame\TankGame\bin\x86\Release\Content\LoadMenuImg\LoadGame1.xnb</Output>
+      <Time>2013-02-25T02:22:22+00:00</Time>
+    </Item>
+    <Item>
+      <Source>LoadMenuImg\LoadGame1Hover.bmp</Source>
+      <Name>LoadMenuImg\LoadGame1Hover</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\antoh\Documents\GitHub\tankGame\TankGame 1.0\TankGame\TankGame\bin\x86\Release\Content\LoadMenuImg\LoadGame1Hover.xnb</Output>
+      <Time>2013-02-25T02:22:22+00:00</Time>
+    </Item>
+    <Item>
+      <Source>LoadMenuImg\LoadGame2.bmp</Source>
+      <Name>LoadMenuImg\LoadGame2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\antoh\Documents\GitHub\tankGame\TankGame 1.0\TankGame\TankGame\bin\x86\Release\Content\LoadMenuImg\LoadGame2.xnb</Output>
+      <Time>2013-02-25T02:22:22+00:00</Time>
+    </Item>
+    <Item>
+      <Source>LoadMenuImg\LoadGame2Hover.bmp</Source>
+      <Name>LoadMenuImg\LoadGame2Hover</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\antoh\Documents\GitHub\tankGame\TankGame 1.0\TankGame\TankGame\bin\x86\Release\Content\LoadMenuImg\LoadGame2Hover.xnb</Output>
+      <Time>2013-02-25T02:22:22+00:00</Time>
+    </Item>
+    <Item>
+      <Source>LoadMenuImg\LoadGame3.bmp</Source>
+      <Name>LoadMenuImg\LoadGame3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\antoh\Documents\GitHub\tankGame\TankGame 1.0\TankGame\TankGame\bin\x86\Release\Content\LoadMenuImg\LoadGame3.xnb</Output>
+      <Time>2013-02-25T02:22:22+00:00</Time>
+    </Item>
+    <Item>
+      <Source>LoadMenuImg\LoadGame3Hover.bmp</Source>
+      <Name>LoadMenuImg\LoadGame3Hover</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\antoh\Documents\GitHub\tankGame\TankGame 1.0\TankGame\TankGame\bin\x86\Release\Content\LoadMenuImg\LoadGame3Hover.xnb</Output>
+      <Time>2013-02-25T02:22:22+00:00</Time>
+    </Item>
+    <Item>
+      <Source>LoadMenuImg\Return.bmp</Source>
+      <Name>LoadMenuImg\Return</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\antoh\Documents\GitHub\tankGame\TankGame 1.0\TankGame\TankGame\bin\x86\Release\Content\LoadMenuImg\Return.xnb</Output>
+      <Time>2013-02-25T02:22:22+00:00</Time>
+    </Item>
+    <Item>
+      <Source>LoadMenuImg\ReturnHover.bmp</Source>
+      <Name>LoadMenuImg\ReturnHover</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\antoh\Documents\GitHub\tankGame\TankGame 1.0\TankGame\TankGame\bin\x86\Release\Content\LoadMenuImg\ReturnHover.xnb</Output>
+      <Time>2013-02-25T02:22:22+00:00</Time>
+    </Item>
+    <Item>
+      <Source>MainMenuImg\LoadGameButton.bmp</Source>
+      <Name>MainMenuImg\LoadGameButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\antoh\Documents\GitHub\tankGame\TankGame 1.0\TankGame\TankGame\bin\x86\Release\Content\MainMenuImg\LoadGameButton.xnb</Output>
+      <Time>2013-02-25T02:22:32+00:00</Time>
+    </Item>
+    <Item>
+      <Source>MainMenuImg\LoadGameButtonPressed.bmp</Source>
+      <Name>MainMenuImg\LoadGameButtonPressed</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\antoh\Documents\GitHub\tankGame\TankGame 1.0\TankGame\TankGame\bin\x86\Release\Content\MainMenuImg\LoadGameButtonPressed.xnb</Output>
+      <Time>2013-02-25T02:22:32+00:00</Time>
+    </Item>
+    <Item>
+      <Source>MainMenuImg\Options.bmp</Source>
+      <Name>MainMenuImg\Options</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\antoh\Documents\GitHub\tankGame\TankGame 1.0\TankGame\TankGame\bin\x86\Release\Content\MainMenuImg\Options.xnb</Output>
+      <Time>2013-02-25T02:22:32+00:00</Time>
+    </Item>
+    <Item>
+      <Source>MainMenuImg\OptionsPressed.bmp</Source>
+      <Name>MainMenuImg\OptionsPressed</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\antoh\Documents\GitHub\tankGame\TankGame 1.0\TankGame\TankGame\bin\x86\Release\Content\MainMenuImg\OptionsPressed.xnb</Output>
+      <Time>2013-02-25T02:22:32+00:00</Time>
+    </Item>
+    <Item>
+      <Source>MainMenuImg\StartButtonDefault.bmp</Source>
+      <Name>MainMenuImg\StartButtonDefault</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\antoh\Documents\GitHub\tankGame\TankGame 1.0\TankGame\TankGame\bin\x86\Release\Content\MainMenuImg\StartButtonDefault.xnb</Output>
+      <Time>2013-02-25T02:22:32+00:00</Time>
+    </Item>
+    <Item>
+      <Source>MainMenuImg\StartButtonPressed.bmp</Source>
+      <Name>MainMenuImg\StartButtonPressed</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\antoh\Documents\GitHub\tankGame\TankGame 1.0\TankGame\TankGame\bin\x86\Release\Content\MainMenuImg\StartButtonPressed.xnb</Output>
+      <Time>2013-02-25T02:22:32+00:00</Time>
+    </Item>
+    <Item>
+      <Source>OptionsMenuImg\BackGround.bmp</Source>
+      <Name>OptionsMenuImg\BackGround</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\antoh\Documents\GitHub\tankGame\TankGame 1.0\TankGame\TankGame\bin\x86\Release\Content\OptionsMenuImg\BackGround.xnb</Output>
+      <Time>2013-02-25T02:22:46+00:00</Time>
+    </Item>
+    <Item>
+      <Source>OptionsMenuImg\DifficultyButton.bmp</Source>
+      <Name>OptionsMenuImg\DifficultyButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\antoh\Documents\GitHub\tankGame\TankGame 1.0\TankGame\TankGame\bin\x86\Release\Content\OptionsMenuImg\DifficultyButton.xnb</Output>
+      <Time>2013-02-25T02:22:46+00:00</Time>
+    </Item>
+    <Item>
+      <Source>OptionsMenuImg\DifficultyPressed.bmp</Source>
+      <Name>OptionsMenuImg\DifficultyPressed</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\antoh\Documents\GitHub\tankGame\TankGame 1.0\TankGame\TankGame\bin\x86\Release\Content\OptionsMenuImg\DifficultyPressed.xnb</Output>
+      <Time>2013-02-25T02:22:46+00:00</Time>
+    </Item>
+    <Item>
+      <Source>OptionsMenuImg\ExitButton.bmp</Source>
+      <Name>OptionsMenuImg\ExitButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\antoh\Documents\GitHub\tankGame\TankGame 1.0\TankGame\TankGame\bin\x86\Release\Content\OptionsMenuImg\ExitButton.xnb</Output>
+      <Time>2013-02-25T02:22:46+00:00</Time>
+    </Item>
+    <Item>
+      <Source>OptionsMenuImg\ExitPressed.bmp</Source>
+      <Name>OptionsMenuImg\ExitPressed</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\antoh\Documents\GitHub\tankGame\TankGame 1.0\TankGame\TankGame\bin\x86\Release\Content\OptionsMenuImg\ExitPressed.xnb</Output>
+      <Time>2013-02-25T02:22:46+00:00</Time>
+    </Item>
+    <Item>
+      <Source>OptionsMenuImg\GraphicsButton.bmp</Source>
+      <Name>OptionsMenuImg\GraphicsButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\antoh\Documents\GitHub\tankGame\TankGame 1.0\TankGame\TankGame\bin\x86\Release\Content\OptionsMenuImg\GraphicsButton.xnb</Output>
+      <Time>2013-02-25T02:22:46+00:00</Time>
+    </Item>
+    <Item>
+      <Source>OptionsMenuImg\GraphicsPressed.bmp</Source>
+      <Name>OptionsMenuImg\GraphicsPressed</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\antoh\Documents\GitHub\tankGame\TankGame 1.0\TankGame\TankGame\bin\x86\Release\Content\OptionsMenuImg\GraphicsPressed.xnb</Output>
+      <Time>2013-02-25T02:22:46+00:00</Time>
+    </Item>
+    <Item>
+      <Source>OptionsMenuImg\SoundButton.bmp</Source>
+      <Name>OptionsMenuImg\SoundButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\antoh\Documents\GitHub\tankGame\TankGame 1.0\TankGame\TankGame\bin\x86\Release\Content\OptionsMenuImg\SoundButton.xnb</Output>
+      <Time>2013-02-25T02:22:46+00:00</Time>
+    </Item>
+    <Item>
+      <Source>OptionsMenuImg\SoundButtonPressed.bmp</Source>
+      <Name>OptionsMenuImg\SoundButtonPressed</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\antoh\Documents\GitHub\tankGame\TankGame 1.0\TankGame\TankGame\bin\x86\Release\Content\OptionsMenuImg\SoundButtonPressed.xnb</Output>
+      <Time>2013-02-25T02:22:46+00:00</Time>
+    </Item>
+    <Item>
+      <Source>TerrainImg\sand1.jpg</Source>
+      <Name>TerrainImg\sand1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\antoh\Documents\GitHub\tankGame\TankGame 1.0\TankGame\TankGame\bin\x86\Release\Content\TerrainImg\sand1.xnb</Output>
+      <Time>2013-03-04T17:24:10+00:00</Time>
+    </Item>
+    <Item>
+      <Source>TerrainImg\redbutton.png</Source>
+      <Name>TerrainImg\redbutton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\antoh\Documents\GitHub\tankGame\TankGame 1.0\TankGame\TankGame\bin\x86\Release\Content\TerrainImg\redbutton.xnb</Output>
+      <Time>2013-03-05T00:46:20+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\crossHair.png</Source>
+      <Name>Sprites\crossHair</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\antoh\Documents\GitHub\tankGame\TankGame 1.0\TankGame\TankGame\bin\x86\Release\Content\Sprites\crossHair.xnb</Output>
+      <Time>2013-03-11T20:39:10+00:00</Time>
+    </Item>
+    <Item>
+      <Source>TerrainImg\heightmap.jpg</Source>
+      <Name>TerrainImg\heightmap</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\antoh\Documents\GitHub\tankGame\TankGame 1.0\TankGame\TankGame\bin\x86\Release\Content\TerrainImg\heightmap.xnb</Output>
+      <Time>2013-04-02T19:16:34+01:00</Time>
+    </Item>
+    <Item>
+      <Source>TerrainImg\sand.jpg</Source>
+      <Name>TerrainImg\sand</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\antoh\Documents\GitHub\tankGame\TankGame 1.0\TankGame\TankGame\bin\x86\Release\Content\TerrainImg\sand.xnb</Output>
+      <Time>2013-04-22T16:46:04+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\barBackground.jpg</Source>
+      <Name>Sprites\barBackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\antoh\Documents\GitHub\tankGame\TankGame 1.0\TankGame\TankGame\bin\x86\Release\Content\Sprites\barBackground.xnb</Output>
+      <Time>2013-04-24T01:40:16+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Sunset.jpg</Source>
+      <Name>Sprites\Sunset</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\antoh\Documents\GitHub\tankGame\TankGame 1.0\TankGame\TankGame\bin\x86\Release\Content\Sprites\Sunset.xnb</Output>
+      <Time>2013-04-24T03:49:38+01:00</Time>
+    </Item>
+    <Item>
+      <Source>MainMenuImg\BackGround.bmp</Source>
+      <Name>MainMenuImg\BackGround</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\antoh\Documents\GitHub\tankGame\TankGame 1.0\TankGame\TankGame\bin\x86\Release\Content\MainMenuImg\BackGround.xnb</Output>
+      <Time>2013-04-24T03:53:12+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\pixel.png</Source>
+      <Name>Sprites\pixel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\antoh\Documents\GitHub\tankGame\TankGame 1.0\TankGame\TankGame\bin\x86\Release\Content\Sprites\pixel.xnb</Output>
+      <Time>2013-04-24T13:45:00+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\mapBackground.png</Source>
+      <Name>Sprites\mapBackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\antoh\Documents\GitHub\tankGame\TankGame 1.0\TankGame\TankGame\bin\x86\Release\Content\Sprites\mapBackground.xnb</Output>
+      <Time>2013-04-24T14:01:22+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\ScoreFont.spritefont</Source>
+      <Name>Sprites\ScoreFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\antoh\Documents\GitHub\tankGame\TankGame 1.0\TankGame\TankGame\bin\x86\Release\Content\Sprites\ScoreFont.xnb</Output>
+      <Time>2013-04-24T02:47:56+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\GameOver.spritefont</Source>
+      <Name>Sprites\GameOver</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\antoh\Documents\GitHub\tankGame\TankGame 1.0\TankGame\TankGame\bin\x86\Release\Content\Sprites\GameOver.xnb</Output>
+      <Time>2013-04-24T02:48:06+01:00</Time>
+    </Item>
+    <Item>
+      <Source>TerrainImg\Effect.fx</Source>
+      <Name>TerrainImg\Effect</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\antoh\Documents\GitHub\tankGame\TankGame 1.0\TankGame\TankGame\bin\x86\Release\Content\TerrainImg\Effect.xnb</Output>
+      <Time>2013-03-04T16:30:12+00:00</Time>
+    </Item>
+    <Item>
+      <Source>TerrainImg\Test.fx</Source>
+      <Name>TerrainImg\Test</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\antoh\Documents\GitHub\tankGame\TankGame 1.0\TankGame\TankGame\bin\x86\Release\Content\TerrainImg\Test.xnb</Output>
+      <Time>2013-03-05T00:29:06+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\tankCabin.fbx</Source>
+      <Name>Models\tankCabin</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Parameters>
+        <Data Key="Scale">2</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\antoh\Documents\GitHub\tankGame\TankGame 1.0\TankGame\TankGame\bin\x86\Release\Content\Models\tankCabin.xnb</Output>
+      <Time>2013-03-10T00:00:54+00:00</Time>
+      <Dependency>
+        <Key>C:\Users\antoh\Documents\GitHub\tankGame\TankGame 1.0\TankGame\TankGame\obj\x86\Release\Models\tankCabin_0.xml</Key>
+        <Value>2017-02-03T20:15:20.7069949+00:00</Value>
+      </Dependency>
+      <Request>C:\Users\antoh\Documents\GitHub\tankGame\TankGame 1.0\TankGame\TankGame\bin\x86\Release\Content\Models\textures\tankInterior_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\tank_Enemy.fbx</Source>
+      <Name>Models\tank_Enemy</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\antoh\Documents\GitHub\tankGame\TankGame 1.0\TankGame\TankGame\bin\x86\Release\Content\Models\tank_Enemy.xnb</Output>
+      <Time>2013-04-19T01:40:42+01:00</Time>
+      <Dependency>
+        <Key>C:\Users\antoh\Documents\GitHub\tankGame\TankGame 1.0\TankGame\TankGame\obj\x86\Release\Models\tank_Enemy_0.xml</Key>
+        <Value>2017-02-03T20:15:22.3462553+00:00</Value>
+      </Dependency>
+      <Request>C:\Users\antoh\Documents\GitHub\tankGame\TankGame 1.0\TankGame\TankGame\bin\x86\Release\Content\Models\textures\engine_diff_tex_0.xnb</Request>
+      <Request>C:\Users\antoh\Documents\GitHub\tankGame\TankGame 1.0\TankGame\TankGame\bin\x86\Release\Content\Models\textures\turret_alt_diff_tex_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\cannonBall.fbx</Source>
+      <Name>Models\cannonBall</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\antoh\Documents\GitHub\tankGame\TankGame 1.0\TankGame\TankGame\bin\x86\Release\Content\Models\cannonBall.xnb</Output>
+      <Time>2013-04-19T14:39:28+01:00</Time>
+      <Dependency>
+        <Key>C:\Users\antoh\Documents\GitHub\tankGame\TankGame 1.0\TankGame\TankGame\obj\x86\Release\Models\cannonBall_0.xml</Key>
+        <Value>2017-02-03T20:15:26.5348369+00:00</Value>
+      </Dependency>
+      <Request>C:\Users\antoh\Documents\GitHub\tankGame\TankGame 1.0\TankGame\TankGame\bin\x86\Release\Content\Models\textures\MetalBare0158_1_S_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Sounds\CannonBlast.wav</Source>
+      <Name>Sounds\CannonBlast</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\antoh\Documents\GitHub\tankGame\TankGame 1.0\TankGame\TankGame\bin\x86\Release\Content\Sounds\CannonBlast.xnb</Output>
+      <Time>2013-04-22T18:09:04+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\TankIdle.wav</Source>
+      <Name>Sounds\TankIdle</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\antoh\Documents\GitHub\tankGame\TankGame 1.0\TankGame\TankGame\bin\x86\Release\Content\Sounds\TankIdle.xnb</Output>
+      <Time>2013-04-22T18:09:04+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\TankMoving.wav</Source>
+      <Name>Sounds\TankMoving</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\antoh\Documents\GitHub\tankGame\TankGame 1.0\TankGame\TankGame\bin\x86\Release\Content\Sounds\TankMoving.xnb</Output>
+      <Time>2013-04-22T18:09:04+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\TankStartingUp.wav</Source>
+      <Name>Sounds\TankStartingUp</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\antoh\Documents\GitHub\tankGame\TankGame 1.0\TankGame\TankGame\bin\x86\Release\Content\Sounds\TankStartingUp.xnb</Output>
+      <Time>2013-04-22T18:09:04+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Explode.wav</Source>
+      <Name>Sounds\Explode</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\antoh\Documents\GitHub\tankGame\TankGame 1.0\TankGame\TankGame\bin\x86\Release\Content\Sounds\Explode.xnb</Output>
+      <Time>2013-04-22T19:22:38+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\GameOver.wav</Source>
+      <Name>Sounds\GameOver</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\antoh\Documents\GitHub\tankGame\TankGame 1.0\TankGame\TankGame\bin\x86\Release\Content\Sounds\GameOver.xnb</Output>
+      <Time>2013-04-24T03:38:58+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\tankCabin.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\antoh\Documents\GitHub\tankGame\TankGame 1.0\TankGame\TankGame\obj\x86\Release\Models\tankCabin_0.xml</Output>
+      <Time>2013-03-10T00:00:54+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\textures\tankInterior.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\antoh\Documents\GitHub\tankGame\TankGame 1.0\TankGame\TankGame\bin\x86\Release\Content\Models\textures\tankInterior_0.xnb</Output>
+      <Time>2013-02-28T03:02:42+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\tank_Enemy.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\antoh\Documents\GitHub\tankGame\TankGame 1.0\TankGame\TankGame\obj\x86\Release\Models\tank_Enemy_0.xml</Output>
+      <Time>2013-04-19T01:40:42+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\textures\engine_diff_tex.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\antoh\Documents\GitHub\tankGame\TankGame 1.0\TankGame\TankGame\bin\x86\Release\Content\Models\textures\engine_diff_tex_0.xnb</Output>
+      <Time>2013-04-19T00:19:32+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\textures\turret_alt_diff_tex.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\antoh\Documents\GitHub\tankGame\TankGame 1.0\TankGame\TankGame\bin\x86\Release\Content\Models\textures\turret_alt_diff_tex_0.xnb</Output>
+      <Time>2013-04-19T00:20:26+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\cannonBall.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\antoh\Documents\GitHub\tankGame\TankGame 1.0\TankGame\TankGame\obj\x86\Release\Models\cannonBall_0.xml</Output>
+      <Time>2013-04-19T14:39:28+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\textures\MetalBare0158_1_S.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\antoh\Documents\GitHub\tankGame\TankGame 1.0\TankGame\TankGame\bin\x86\Release\Content\Models\textures\MetalBare0158_1_S_0.xnb</Output>
+      <Time>2013-04-19T14:39:48+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{93872B1D-9B1A-48BC-9DC4-1EF7E6AD34A2}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Release</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>C:\Users\antoh\Documents\GitHub\tankGame\TankGame 1.0\TankGame\TankGameContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\antoh\Documents\GitHub\tankGame\TankGame 1.0\TankGame\TankGame\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\antoh\Documents\GitHub\tankGame\TankGame 1.0\TankGame\TankGame\obj\x86\Release\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\antoh\Documents\GitHub\tankGame\TankGame 1.0\TankGame\TankGame\bin\x86\Release\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2017-02-03T20:06:08.5307218+00:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

@@ -22,7 +22,10 @@ namespace TankGame.Camera
         Vector2 textPosition;
         string text { get; set; }
 
-        string path = @"\scores.txt";
+        string path = Directory.GetCurrentDirectory();
+        string directory = @"\scores\";
+        string file = @"scores.txt";
+        
         bool written;
 
         float colorAlpha;
@@ -45,9 +48,11 @@ namespace TankGame.Camera
             iMusic = music.CreateInstance();
             iMusic.Volume = Game1.Instance.volume;
 
-            if (!System.IO.File.Exists(path))
+            if (!System.IO.File.Exists(path + directory + file))
             {
-                using (StreamWriter sw = File.CreateText(path))
+                Directory.CreateDirectory(path + directory);
+
+                using (StreamWriter sw = File.CreateText(path + directory + file))
                 {
                     sw.WriteLine("");
                 }

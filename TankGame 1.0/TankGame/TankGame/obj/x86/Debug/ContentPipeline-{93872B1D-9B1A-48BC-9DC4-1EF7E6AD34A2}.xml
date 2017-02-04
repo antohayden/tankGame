@@ -7,8 +7,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>G:\OOP\TankGame 1.2\TankGame 1.2\TankGame\TankGame\bin\x86\Debug\Content\LoadMenuImg\BackGround.xnb</Output>
-      <Time>2013-02-25T02:22:20.9616402+00:00</Time>
+      <Output>C:\Users\antoh\Documents\GitHub\tankGame\TankGame 1.0\TankGame\TankGame\bin\x86\Debug\Content\LoadMenuImg\BackGround.xnb</Output>
+      <Time>2013-02-25T02:22:22+00:00</Time>
     </Item>
     <Item>
       <Source>LoadMenuImg\LoadGame1.bmp</Source>
@@ -16,8 +16,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>G:\OOP\TankGame 1.2\TankGame 1.2\TankGame\TankGame\bin\x86\Debug\Content\LoadMenuImg\LoadGame1.xnb</Output>
-      <Time>2013-02-25T02:22:20.9776411+00:00</Time>
+      <Output>C:\Users\antoh\Documents\GitHub\tankGame\TankGame 1.0\TankGame\TankGame\bin\x86\Debug\Content\LoadMenuImg\LoadGame1.xnb</Output>
+      <Time>2013-02-25T02:22:22+00:00</Time>
     </Item>
     <Item>
       <Source>LoadMenuImg\LoadGame1Hover.bmp</Source>
@@ -25,8 +25,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>G:\OOP\TankGame 1.2\TankGame 1.2\TankGame\TankGame\bin\x86\Debug\Content\LoadMenuImg\LoadGame1Hover.xnb</Output>
-      <Time>2013-02-25T02:22:20.9786411+00:00</Time>
+      <Output>C:\Users\antoh\Documents\GitHub\tankGame\TankGame 1.0\TankGame\TankGame\bin\x86\Debug\Content\LoadMenuImg\LoadGame1Hover.xnb</Output>
+      <Time>2013-02-25T02:22:22+00:00</Time>
     </Item>
     <Item>
       <Source>LoadMenuImg\LoadGame2.bmp</Source>
@@ -34,8 +34,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>G:\OOP\TankGame 1.2\TankGame 1.2\TankGame\TankGame\bin\x86\Debug\Content\LoadMenuImg\LoadGame2.xnb</Output>
-      <Time>2013-02-25T02:22:20.9796412+00:00</Time>
+      <Output>C:\Users\antoh\Documents\GitHub\tankGame\TankGame 1.0\TankGame\TankGame\bin\x86\Debug\Content\LoadMenuImg\LoadGame2.xnb</Output>
+      <Time>2013-02-25T02:22:22+00:00</Time>
     </Item>
     <Item>
       <Source>LoadMenuImg\LoadGame2Hover.bmp</Source>
@@ -43,8 +43,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>G:\OOP\TankGame 1.2\TankGame 1.2\TankGame\TankGame\bin\x86\Debug\Content\LoadMenuImg\LoadGame2Hover.xnb</Output>
-      <Time>2013-02-25T02:22:20.9806412+00:00</Time>
+      <Output>C:\Users\antoh\Documents\GitHub\tankGame\TankGame 1.0\TankGame\TankGame\bin\x86\Debug\Content\LoadMenuImg\LoadGame2Hover.xnb</Output>
+      <Time>2013-02-25T02:22:22+00:00</Time>
     </Item>
     <Item>
       <Source>LoadMenuImg\LoadGame3.bmp</Source>
@@ -52,8 +52,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>G:\OOP\TankGame 1.2\TankGame 1.2\TankGame\TankGame\bin\x86\Debug\Content\LoadMenuImg\LoadGame3.xnb</Output>
-      <Time>2013-02-25T02:22:20.9806412+00:00</Time>
+      <Output>C:\Users\antoh\Documents\GitHub\tankGame\TankGame 1.0\TankGame\TankGame\bin\x86\Debug\Content\LoadMenuImg\LoadGame3.xnb</Output>
+      <Time>2013-02-25T02:22:22+00:00</Time>
     </Item>
     <Item>
       <Source>LoadMenuImg\LoadGame3Hover.bmp</Source>
@@ -61,8 +61,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>G:\OOP\TankGame 1.2\TankGame 1.2\TankGame\TankGame\bin\x86\Debug\Content\LoadMenuImg\LoadGame3Hover.xnb</Output>
-      <Time>2013-02-25T02:22:20.9816413+00:00</Time>
+      <Output>C:\Users\antoh\Documents\GitHub\tankGame\TankGame 1.0\TankGame\TankGame\bin\x86\Debug\Content\LoadMenuImg\LoadGame3Hover.xnb</Output>
+      <Time>2013-02-25T02:22:22+00:00</Time>
     </Item>
     <Item>
       <Source>LoadMenuImg\Return.bmp</Source>
@@ -70,8 +70,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>G:\OOP\TankGame 1.2\TankGame 1.2\TankGame\TankGame\bin\x86\Debug\Content\LoadMenuImg\Return.xnb</Output>
-      <Time>2013-02-25T02:22:20.9816413+00:00</Time>
+      <Output>C:\Users\antoh\Documents\GitHub\tankGame\TankGame 1.0\TankGame\TankGame\bin\x86\Debug\Content\LoadMenuImg\Return.xnb</Output>
+      <Time>2013-02-25T02:22:22+00:00</Time>
     </Item>
     <Item>
       <Source>LoadMenuImg\ReturnHover.bmp</Source>
@@ -79,8 +79,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>G:\OOP\TankGame 1.2\TankGame 1.2\TankGame\TankGame\bin\x86\Debug\Content\LoadMenuImg\ReturnHover.xnb</Output>
-      <Time>2013-02-25T02:22:20.9826414+00:00</Time>
+      <Output>C:\Users\antoh\Documents\GitHub\tankGame\TankGame 1.0\TankGame\TankGame\bin\x86\Debug\Content\LoadMenuImg\ReturnHover.xnb</Output>
+      <Time>2013-02-25T02:22:22+00:00</Time>
     </Item>
     <Item>
       <Source>MainMenuImg\LoadGameButton.bmp</Source>
@@ -88,8 +88,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>G:\OOP\TankGame 1.2\TankGame 1.2\TankGame\TankGame\bin\x86\Debug\Content\MainMenuImg\LoadGameButton.xnb</Output>
-      <Time>2013-02-25T02:22:31.4452398+00:00</Time>
+      <Output>C:\Users\antoh\Documents\GitHub\tankGame\TankGame 1.0\TankGame\TankGame\bin\x86\Debug\Content\MainMenuImg\LoadGameButton.xnb</Output>
+      <Time>2013-02-25T02:22:32+00:00</Time>
     </Item>
     <Item>
       <Source>MainMenuImg\LoadGameButtonPressed.bmp</Source>
@@ -97,8 +97,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>G:\OOP\TankGame 1.2\TankGame 1.2\TankGame\TankGame\bin\x86\Debug\Content\MainMenuImg\LoadGameButtonPressed.xnb</Output>
-      <Time>2013-02-25T02:22:31.4462398+00:00</Time>
+      <Output>C:\Users\antoh\Documents\GitHub\tankGame\TankGame 1.0\TankGame\TankGame\bin\x86\Debug\Content\MainMenuImg\LoadGameButtonPressed.xnb</Output>
+      <Time>2013-02-25T02:22:32+00:00</Time>
     </Item>
     <Item>
       <Source>MainMenuImg\Options.bmp</Source>
@@ -106,8 +106,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>G:\OOP\TankGame 1.2\TankGame 1.2\TankGame\TankGame\bin\x86\Debug\Content\MainMenuImg\Options.xnb</Output>
-      <Time>2013-02-25T02:22:31.4472399+00:00</Time>
+      <Output>C:\Users\antoh\Documents\GitHub\tankGame\TankGame 1.0\TankGame\TankGame\bin\x86\Debug\Content\MainMenuImg\Options.xnb</Output>
+      <Time>2013-02-25T02:22:32+00:00</Time>
     </Item>
     <Item>
       <Source>MainMenuImg\OptionsPressed.bmp</Source>
@@ -115,8 +115,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>G:\OOP\TankGame 1.2\TankGame 1.2\TankGame\TankGame\bin\x86\Debug\Content\MainMenuImg\OptionsPressed.xnb</Output>
-      <Time>2013-02-25T02:22:31.4472399+00:00</Time>
+      <Output>C:\Users\antoh\Documents\GitHub\tankGame\TankGame 1.0\TankGame\TankGame\bin\x86\Debug\Content\MainMenuImg\OptionsPressed.xnb</Output>
+      <Time>2013-02-25T02:22:32+00:00</Time>
     </Item>
     <Item>
       <Source>MainMenuImg\StartButtonDefault.bmp</Source>
@@ -124,8 +124,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>G:\OOP\TankGame 1.2\TankGame 1.2\TankGame\TankGame\bin\x86\Debug\Content\MainMenuImg\StartButtonDefault.xnb</Output>
-      <Time>2013-02-25T02:22:31.44824+00:00</Time>
+      <Output>C:\Users\antoh\Documents\GitHub\tankGame\TankGame 1.0\TankGame\TankGame\bin\x86\Debug\Content\MainMenuImg\StartButtonDefault.xnb</Output>
+      <Time>2013-02-25T02:22:32+00:00</Time>
     </Item>
     <Item>
       <Source>MainMenuImg\StartButtonPressed.bmp</Source>
@@ -133,8 +133,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>G:\OOP\TankGame 1.2\TankGame 1.2\TankGame\TankGame\bin\x86\Debug\Content\MainMenuImg\StartButtonPressed.xnb</Output>
-      <Time>2013-02-25T02:22:31.44924+00:00</Time>
+      <Output>C:\Users\antoh\Documents\GitHub\tankGame\TankGame 1.0\TankGame\TankGame\bin\x86\Debug\Content\MainMenuImg\StartButtonPressed.xnb</Output>
+      <Time>2013-02-25T02:22:32+00:00</Time>
     </Item>
     <Item>
       <Source>OptionsMenuImg\BackGround.bmp</Source>
@@ -142,8 +142,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>G:\OOP\TankGame 1.2\TankGame 1.2\TankGame\TankGame\bin\x86\Debug\Content\OptionsMenuImg\BackGround.xnb</Output>
-      <Time>2013-02-25T02:22:44.0249593+00:00</Time>
+      <Output>C:\Users\antoh\Documents\GitHub\tankGame\TankGame 1.0\TankGame\TankGame\bin\x86\Debug\Content\OptionsMenuImg\BackGround.xnb</Output>
+      <Time>2013-02-25T02:22:46+00:00</Time>
     </Item>
     <Item>
       <Source>OptionsMenuImg\DifficultyButton.bmp</Source>
@@ -151,8 +151,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>G:\OOP\TankGame 1.2\TankGame 1.2\TankGame\TankGame\bin\x86\Debug\Content\OptionsMenuImg\DifficultyButton.xnb</Output>
-      <Time>2013-02-25T02:22:44.0259594+00:00</Time>
+      <Output>C:\Users\antoh\Documents\GitHub\tankGame\TankGame 1.0\TankGame\TankGame\bin\x86\Debug\Content\OptionsMenuImg\DifficultyButton.xnb</Output>
+      <Time>2013-02-25T02:22:46+00:00</Time>
     </Item>
     <Item>
       <Source>OptionsMenuImg\DifficultyPressed.bmp</Source>
@@ -160,8 +160,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>G:\OOP\TankGame 1.2\TankGame 1.2\TankGame\TankGame\bin\x86\Debug\Content\OptionsMenuImg\DifficultyPressed.xnb</Output>
-      <Time>2013-02-25T02:22:44.0269594+00:00</Time>
+      <Output>C:\Users\antoh\Documents\GitHub\tankGame\TankGame 1.0\TankGame\TankGame\bin\x86\Debug\Content\OptionsMenuImg\DifficultyPressed.xnb</Output>
+      <Time>2013-02-25T02:22:46+00:00</Time>
     </Item>
     <Item>
       <Source>OptionsMenuImg\ExitButton.bmp</Source>
@@ -169,8 +169,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>G:\OOP\TankGame 1.2\TankGame 1.2\TankGame\TankGame\bin\x86\Debug\Content\OptionsMenuImg\ExitButton.xnb</Output>
-      <Time>2013-02-25T02:22:44.0269594+00:00</Time>
+      <Output>C:\Users\antoh\Documents\GitHub\tankGame\TankGame 1.0\TankGame\TankGame\bin\x86\Debug\Content\OptionsMenuImg\ExitButton.xnb</Output>
+      <Time>2013-02-25T02:22:46+00:00</Time>
     </Item>
     <Item>
       <Source>OptionsMenuImg\ExitPressed.bmp</Source>
@@ -178,8 +178,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>G:\OOP\TankGame 1.2\TankGame 1.2\TankGame\TankGame\bin\x86\Debug\Content\OptionsMenuImg\ExitPressed.xnb</Output>
-      <Time>2013-02-25T02:22:44.0279595+00:00</Time>
+      <Output>C:\Users\antoh\Documents\GitHub\tankGame\TankGame 1.0\TankGame\TankGame\bin\x86\Debug\Content\OptionsMenuImg\ExitPressed.xnb</Output>
+      <Time>2013-02-25T02:22:46+00:00</Time>
     </Item>
     <Item>
       <Source>OptionsMenuImg\GraphicsButton.bmp</Source>
@@ -187,8 +187,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>G:\OOP\TankGame 1.2\TankGame 1.2\TankGame\TankGame\bin\x86\Debug\Content\OptionsMenuImg\GraphicsButton.xnb</Output>
-      <Time>2013-02-25T02:22:44.0289595+00:00</Time>
+      <Output>C:\Users\antoh\Documents\GitHub\tankGame\TankGame 1.0\TankGame\TankGame\bin\x86\Debug\Content\OptionsMenuImg\GraphicsButton.xnb</Output>
+      <Time>2013-02-25T02:22:46+00:00</Time>
     </Item>
     <Item>
       <Source>OptionsMenuImg\GraphicsPressed.bmp</Source>
@@ -196,8 +196,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>G:\OOP\TankGame 1.2\TankGame 1.2\TankGame\TankGame\bin\x86\Debug\Content\OptionsMenuImg\GraphicsPressed.xnb</Output>
-      <Time>2013-02-25T02:22:44.0289595+00:00</Time>
+      <Output>C:\Users\antoh\Documents\GitHub\tankGame\TankGame 1.0\TankGame\TankGame\bin\x86\Debug\Content\OptionsMenuImg\GraphicsPressed.xnb</Output>
+      <Time>2013-02-25T02:22:46+00:00</Time>
     </Item>
     <Item>
       <Source>OptionsMenuImg\SoundButton.bmp</Source>
@@ -205,8 +205,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>G:\OOP\TankGame 1.2\TankGame 1.2\TankGame\TankGame\bin\x86\Debug\Content\OptionsMenuImg\SoundButton.xnb</Output>
-      <Time>2013-02-25T02:22:44.0299596+00:00</Time>
+      <Output>C:\Users\antoh\Documents\GitHub\tankGame\TankGame 1.0\TankGame\TankGame\bin\x86\Debug\Content\OptionsMenuImg\SoundButton.xnb</Output>
+      <Time>2013-02-25T02:22:46+00:00</Time>
     </Item>
     <Item>
       <Source>OptionsMenuImg\SoundButtonPressed.bmp</Source>
@@ -214,8 +214,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>G:\OOP\TankGame 1.2\TankGame 1.2\TankGame\TankGame\bin\x86\Debug\Content\OptionsMenuImg\SoundButtonPressed.xnb</Output>
-      <Time>2013-02-25T02:22:44.0309596+00:00</Time>
+      <Output>C:\Users\antoh\Documents\GitHub\tankGame\TankGame 1.0\TankGame\TankGame\bin\x86\Debug\Content\OptionsMenuImg\SoundButtonPressed.xnb</Output>
+      <Time>2013-02-25T02:22:46+00:00</Time>
     </Item>
     <Item>
       <Source>TerrainImg\sand1.jpg</Source>
@@ -223,8 +223,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>G:\OOP\TankGame 1.2\TankGame 1.2\TankGame\TankGame\bin\x86\Debug\Content\TerrainImg\sand1.xnb</Output>
-      <Time>2013-03-04T17:24:08.6544292+00:00</Time>
+      <Output>C:\Users\antoh\Documents\GitHub\tankGame\TankGame 1.0\TankGame\TankGame\bin\x86\Debug\Content\TerrainImg\sand1.xnb</Output>
+      <Time>2013-03-04T17:24:10+00:00</Time>
     </Item>
     <Item>
       <Source>TerrainImg\redbutton.png</Source>
@@ -232,8 +232,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>G:\OOP\TankGame 1.2\TankGame 1.2\TankGame\TankGame\bin\x86\Debug\Content\TerrainImg\redbutton.xnb</Output>
-      <Time>2013-03-05T00:46:18.1718308+00:00</Time>
+      <Output>C:\Users\antoh\Documents\GitHub\tankGame\TankGame 1.0\TankGame\TankGame\bin\x86\Debug\Content\TerrainImg\redbutton.xnb</Output>
+      <Time>2013-03-05T00:46:20+00:00</Time>
     </Item>
     <Item>
       <Source>Sprites\crossHair.png</Source>
@@ -241,8 +241,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>G:\OOP\TankGame 1.2\TankGame 1.2\TankGame\TankGame\bin\x86\Debug\Content\Sprites\crossHair.xnb</Output>
-      <Time>2013-03-11T20:39:08.6704981+00:00</Time>
+      <Output>C:\Users\antoh\Documents\GitHub\tankGame\TankGame 1.0\TankGame\TankGame\bin\x86\Debug\Content\Sprites\crossHair.xnb</Output>
+      <Time>2013-03-11T20:39:10+00:00</Time>
     </Item>
     <Item>
       <Source>TerrainImg\heightmap.jpg</Source>
@@ -250,8 +250,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>G:\OOP\TankGame 1.2\TankGame 1.2\TankGame\TankGame\bin\x86\Debug\Content\TerrainImg\heightmap.xnb</Output>
-      <Time>2013-04-02T19:16:32.5218901+01:00</Time>
+      <Output>C:\Users\antoh\Documents\GitHub\tankGame\TankGame 1.0\TankGame\TankGame\bin\x86\Debug\Content\TerrainImg\heightmap.xnb</Output>
+      <Time>2013-04-02T19:16:34+01:00</Time>
     </Item>
     <Item>
       <Source>TerrainImg\sand.jpg</Source>
@@ -259,8 +259,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>G:\OOP\TankGame 1.2\TankGame 1.2\TankGame\TankGame\bin\x86\Debug\Content\TerrainImg\sand.xnb</Output>
-      <Time>2013-04-22T16:46:02.0601815+01:00</Time>
+      <Output>C:\Users\antoh\Documents\GitHub\tankGame\TankGame 1.0\TankGame\TankGame\bin\x86\Debug\Content\TerrainImg\sand.xnb</Output>
+      <Time>2013-04-22T16:46:04+01:00</Time>
     </Item>
     <Item>
       <Source>Sprites\barBackground.jpg</Source>
@@ -268,8 +268,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>G:\OOP\TankGame 1.2\TankGame 1.2\TankGame\TankGame\bin\x86\Debug\Content\Sprites\barBackground.xnb</Output>
-      <Time>2013-04-24T01:40:14.1952561+01:00</Time>
+      <Output>C:\Users\antoh\Documents\GitHub\tankGame\TankGame 1.0\TankGame\TankGame\bin\x86\Debug\Content\Sprites\barBackground.xnb</Output>
+      <Time>2013-04-24T01:40:16+01:00</Time>
     </Item>
     <Item>
       <Source>Sprites\Sunset.jpg</Source>
@@ -277,8 +277,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>G:\OOP\TankGame 1.2\TankGame 1.2\TankGame\TankGame\bin\x86\Debug\Content\Sprites\Sunset.xnb</Output>
-      <Time>2013-04-24T03:49:37.2152755+01:00</Time>
+      <Output>C:\Users\antoh\Documents\GitHub\tankGame\TankGame 1.0\TankGame\TankGame\bin\x86\Debug\Content\Sprites\Sunset.xnb</Output>
+      <Time>2013-04-24T03:49:38+01:00</Time>
     </Item>
     <Item>
       <Source>MainMenuImg\BackGround.bmp</Source>
@@ -286,8 +286,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>G:\OOP\TankGame 1.2\TankGame 1.2\TankGame\TankGame\bin\x86\Debug\Content\MainMenuImg\BackGround.xnb</Output>
-      <Time>2013-04-24T03:53:11.2125154+01:00</Time>
+      <Output>C:\Users\antoh\Documents\GitHub\tankGame\TankGame 1.0\TankGame\TankGame\bin\x86\Debug\Content\MainMenuImg\BackGround.xnb</Output>
+      <Time>2013-04-24T03:53:12+01:00</Time>
     </Item>
     <Item>
       <Source>Sprites\pixel.png</Source>
@@ -295,8 +295,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>G:\OOP\TankGame 1.2\TankGame 1.2\TankGame\TankGame\bin\x86\Debug\Content\Sprites\pixel.xnb</Output>
-      <Time>2013-04-24T13:44:58.6262819+01:00</Time>
+      <Output>C:\Users\antoh\Documents\GitHub\tankGame\TankGame 1.0\TankGame\TankGame\bin\x86\Debug\Content\Sprites\pixel.xnb</Output>
+      <Time>2013-04-24T13:45:00+01:00</Time>
     </Item>
     <Item>
       <Source>Sprites\mapBackground.png</Source>
@@ -304,8 +304,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>G:\OOP\TankGame 1.2\TankGame 1.2\TankGame\TankGame\bin\x86\Debug\Content\Sprites\mapBackground.xnb</Output>
-      <Time>2013-04-24T14:01:20.5584452+01:00</Time>
+      <Output>C:\Users\antoh\Documents\GitHub\tankGame\TankGame 1.0\TankGame\TankGame\bin\x86\Debug\Content\Sprites\mapBackground.xnb</Output>
+      <Time>2013-04-24T14:01:22+01:00</Time>
     </Item>
     <Item>
       <Source>Sprites\ScoreFont.spritefont</Source>
@@ -313,8 +313,8 @@
       <Importer>FontDescriptionImporter</Importer>
       <Processor>FontDescriptionProcessor</Processor>
       <Options>None</Options>
-      <Output>G:\OOP\TankGame 1.2\TankGame 1.2\TankGame\TankGame\bin\x86\Debug\Content\Sprites\ScoreFont.xnb</Output>
-      <Time>2013-04-24T02:47:55.3255395+01:00</Time>
+      <Output>C:\Users\antoh\Documents\GitHub\tankGame\TankGame 1.0\TankGame\TankGame\bin\x86\Debug\Content\Sprites\ScoreFont.xnb</Output>
+      <Time>2013-04-24T02:47:56+01:00</Time>
     </Item>
     <Item>
       <Source>Sprites\GameOver.spritefont</Source>
@@ -322,8 +322,8 @@
       <Importer>FontDescriptionImporter</Importer>
       <Processor>FontDescriptionProcessor</Processor>
       <Options>None</Options>
-      <Output>G:\OOP\TankGame 1.2\TankGame 1.2\TankGame\TankGame\bin\x86\Debug\Content\Sprites\GameOver.xnb</Output>
-      <Time>2013-04-24T02:48:05.3071104+01:00</Time>
+      <Output>C:\Users\antoh\Documents\GitHub\tankGame\TankGame 1.0\TankGame\TankGame\bin\x86\Debug\Content\Sprites\GameOver.xnb</Output>
+      <Time>2013-04-24T02:48:06+01:00</Time>
     </Item>
     <Item>
       <Source>TerrainImg\Effect.fx</Source>
@@ -331,8 +331,8 @@
       <Importer>EffectImporter</Importer>
       <Processor>EffectProcessor</Processor>
       <Options>None</Options>
-      <Output>G:\OOP\TankGame 1.2\TankGame 1.2\TankGame\TankGame\bin\x86\Debug\Content\TerrainImg\Effect.xnb</Output>
-      <Time>2013-03-04T16:30:11.7342879+00:00</Time>
+      <Output>C:\Users\antoh\Documents\GitHub\tankGame\TankGame 1.0\TankGame\TankGame\bin\x86\Debug\Content\TerrainImg\Effect.xnb</Output>
+      <Time>2013-03-04T16:30:12+00:00</Time>
     </Item>
     <Item>
       <Source>TerrainImg\Test.fx</Source>
@@ -340,8 +340,8 @@
       <Importer>EffectImporter</Importer>
       <Processor>EffectProcessor</Processor>
       <Options>None</Options>
-      <Output>G:\OOP\TankGame 1.2\TankGame 1.2\TankGame\TankGame\bin\x86\Debug\Content\TerrainImg\Test.xnb</Output>
-      <Time>2013-03-05T00:29:05.0427392+00:00</Time>
+      <Output>C:\Users\antoh\Documents\GitHub\tankGame\TankGame 1.0\TankGame\TankGame\bin\x86\Debug\Content\TerrainImg\Test.xnb</Output>
+      <Time>2013-03-05T00:29:06+00:00</Time>
     </Item>
     <Item>
       <Source>Models\tankCabin.fbx</Source>
@@ -352,13 +352,13 @@
         <Data Key="Scale">2</Data>
       </Parameters>
       <Options>None</Options>
-      <Output>G:\OOP\TankGame 1.2\TankGame 1.2\TankGame\TankGame\bin\x86\Debug\Content\Models\tankCabin.xnb</Output>
-      <Time>2013-03-10T00:00:52.9551957+00:00</Time>
+      <Output>C:\Users\antoh\Documents\GitHub\tankGame\TankGame 1.0\TankGame\TankGame\bin\x86\Debug\Content\Models\tankCabin.xnb</Output>
+      <Time>2013-03-10T00:00:54+00:00</Time>
       <Dependency>
-        <Key>G:\OOP\TankGame 1.2\TankGame 1.2\TankGame\TankGame\obj\x86\Debug\Models\tankCabin_0.xml</Key>
-        <Value>2013-04-24T18:27:14.8109711+01:00</Value>
+        <Key>C:\Users\antoh\Documents\GitHub\tankGame\TankGame 1.0\TankGame\TankGame\obj\x86\Debug\Models\tankCabin_0.xml</Key>
+        <Value>2017-02-03T20:07:23.9838833+00:00</Value>
       </Dependency>
-      <Request>G:\OOP\TankGame 1.2\TankGame 1.2\TankGame\TankGame\bin\x86\Debug\Content\Models\textures\tankInterior_0.xnb</Request>
+      <Request>C:\Users\antoh\Documents\GitHub\tankGame\TankGame 1.0\TankGame\TankGame\bin\x86\Debug\Content\Models\textures\tankInterior_0.xnb</Request>
     </Item>
     <Item>
       <Source>Models\tank_Enemy.fbx</Source>
@@ -366,14 +366,14 @@
       <Importer>FbxImporter</Importer>
       <Processor>ModelProcessor</Processor>
       <Options>None</Options>
-      <Output>G:\OOP\TankGame 1.2\TankGame 1.2\TankGame\TankGame\bin\x86\Debug\Content\Models\tank_Enemy.xnb</Output>
-      <Time>2013-04-19T01:40:40.7119376+01:00</Time>
+      <Output>C:\Users\antoh\Documents\GitHub\tankGame\TankGame 1.0\TankGame\TankGame\bin\x86\Debug\Content\Models\tank_Enemy.xnb</Output>
+      <Time>2013-04-19T01:40:42+01:00</Time>
       <Dependency>
-        <Key>G:\OOP\TankGame 1.2\TankGame 1.2\TankGame\TankGame\obj\x86\Debug\Models\tank_Enemy_0.xml</Key>
-        <Value>2013-04-24T18:27:31.0749014+01:00</Value>
+        <Key>C:\Users\antoh\Documents\GitHub\tankGame\TankGame 1.0\TankGame\TankGame\obj\x86\Debug\Models\tank_Enemy_0.xml</Key>
+        <Value>2017-02-03T20:07:25.5332796+00:00</Value>
       </Dependency>
-      <Request>G:\OOP\TankGame 1.2\TankGame 1.2\TankGame\TankGame\bin\x86\Debug\Content\Models\textures\engine_diff_tex_0.xnb</Request>
-      <Request>G:\OOP\TankGame 1.2\TankGame 1.2\TankGame\TankGame\bin\x86\Debug\Content\Models\textures\turret_alt_diff_tex_0.xnb</Request>
+      <Request>C:\Users\antoh\Documents\GitHub\tankGame\TankGame 1.0\TankGame\TankGame\bin\x86\Debug\Content\Models\textures\engine_diff_tex_0.xnb</Request>
+      <Request>C:\Users\antoh\Documents\GitHub\tankGame\TankGame 1.0\TankGame\TankGame\bin\x86\Debug\Content\Models\textures\turret_alt_diff_tex_0.xnb</Request>
     </Item>
     <Item>
       <Source>Models\cannonBall.fbx</Source>
@@ -381,13 +381,13 @@
       <Importer>FbxImporter</Importer>
       <Processor>ModelProcessor</Processor>
       <Options>None</Options>
-      <Output>G:\OOP\TankGame 1.2\TankGame 1.2\TankGame\TankGame\bin\x86\Debug\Content\Models\cannonBall.xnb</Output>
-      <Time>2013-04-19T14:39:27.4689448+01:00</Time>
+      <Output>C:\Users\antoh\Documents\GitHub\tankGame\TankGame 1.0\TankGame\TankGame\bin\x86\Debug\Content\Models\cannonBall.xnb</Output>
+      <Time>2013-04-19T14:39:28+01:00</Time>
       <Dependency>
-        <Key>G:\OOP\TankGame 1.2\TankGame 1.2\TankGame\TankGame\obj\x86\Debug\Models\cannonBall_0.xml</Key>
-        <Value>2013-04-24T18:28:21.1447652+01:00</Value>
+        <Key>C:\Users\antoh\Documents\GitHub\tankGame\TankGame 1.0\TankGame\TankGame\obj\x86\Debug\Models\cannonBall_0.xml</Key>
+        <Value>2017-02-03T20:07:28.5880643+00:00</Value>
       </Dependency>
-      <Request>G:\OOP\TankGame 1.2\TankGame 1.2\TankGame\TankGame\bin\x86\Debug\Content\Models\textures\MetalBare0158_1_S_0.xnb</Request>
+      <Request>C:\Users\antoh\Documents\GitHub\tankGame\TankGame 1.0\TankGame\TankGame\bin\x86\Debug\Content\Models\textures\MetalBare0158_1_S_0.xnb</Request>
     </Item>
     <Item>
       <Source>Sounds\CannonBlast.wav</Source>
@@ -395,8 +395,8 @@
       <Importer>WavImporter</Importer>
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
-      <Output>G:\OOP\TankGame 1.2\TankGame 1.2\TankGame\TankGame\bin\x86\Debug\Content\Sounds\CannonBlast.xnb</Output>
-      <Time>2013-04-22T18:09:02.5290481+01:00</Time>
+      <Output>C:\Users\antoh\Documents\GitHub\tankGame\TankGame 1.0\TankGame\TankGame\bin\x86\Debug\Content\Sounds\CannonBlast.xnb</Output>
+      <Time>2013-04-22T18:09:04+01:00</Time>
     </Item>
     <Item>
       <Source>Sounds\TankIdle.wav</Source>
@@ -404,8 +404,8 @@
       <Importer>WavImporter</Importer>
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
-      <Output>G:\OOP\TankGame 1.2\TankGame 1.2\TankGame\TankGame\bin\x86\Debug\Content\Sounds\TankIdle.xnb</Output>
-      <Time>2013-04-22T18:09:02.5300481+01:00</Time>
+      <Output>C:\Users\antoh\Documents\GitHub\tankGame\TankGame 1.0\TankGame\TankGame\bin\x86\Debug\Content\Sounds\TankIdle.xnb</Output>
+      <Time>2013-04-22T18:09:04+01:00</Time>
     </Item>
     <Item>
       <Source>Sounds\TankMoving.wav</Source>
@@ -413,8 +413,8 @@
       <Importer>WavImporter</Importer>
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
-      <Output>G:\OOP\TankGame 1.2\TankGame 1.2\TankGame\TankGame\bin\x86\Debug\Content\Sounds\TankMoving.xnb</Output>
-      <Time>2013-04-22T18:09:02.5310482+01:00</Time>
+      <Output>C:\Users\antoh\Documents\GitHub\tankGame\TankGame 1.0\TankGame\TankGame\bin\x86\Debug\Content\Sounds\TankMoving.xnb</Output>
+      <Time>2013-04-22T18:09:04+01:00</Time>
     </Item>
     <Item>
       <Source>Sounds\TankStartingUp.wav</Source>
@@ -422,8 +422,8 @@
       <Importer>WavImporter</Importer>
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
-      <Output>G:\OOP\TankGame 1.2\TankGame 1.2\TankGame\TankGame\bin\x86\Debug\Content\Sounds\TankStartingUp.xnb</Output>
-      <Time>2013-04-22T18:09:02.5330483+01:00</Time>
+      <Output>C:\Users\antoh\Documents\GitHub\tankGame\TankGame 1.0\TankGame\TankGame\bin\x86\Debug\Content\Sounds\TankStartingUp.xnb</Output>
+      <Time>2013-04-22T18:09:04+01:00</Time>
     </Item>
     <Item>
       <Source>Sounds\Explode.wav</Source>
@@ -431,8 +431,8 @@
       <Importer>WavImporter</Importer>
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
-      <Output>G:\OOP\TankGame 1.2\TankGame 1.2\TankGame\TankGame\bin\x86\Debug\Content\Sounds\Explode.xnb</Output>
-      <Time>2013-04-22T19:22:37.1365492+01:00</Time>
+      <Output>C:\Users\antoh\Documents\GitHub\tankGame\TankGame 1.0\TankGame\TankGame\bin\x86\Debug\Content\Sounds\Explode.xnb</Output>
+      <Time>2013-04-22T19:22:38+01:00</Time>
     </Item>
     <Item>
       <Source>Sounds\GameOver.wav</Source>
@@ -440,15 +440,15 @@
       <Importer>WavImporter</Importer>
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
-      <Output>G:\OOP\TankGame 1.2\TankGame 1.2\TankGame\TankGame\bin\x86\Debug\Content\Sounds\GameOver.xnb</Output>
-      <Time>2013-04-24T03:38:56.6316362+01:00</Time>
+      <Output>C:\Users\antoh\Documents\GitHub\tankGame\TankGame 1.0\TankGame\TankGame\bin\x86\Debug\Content\Sounds\GameOver.xnb</Output>
+      <Time>2013-04-24T03:38:58+01:00</Time>
     </Item>
     <Item>
       <Source>Models\tankCabin.fbx</Source>
       <Importer>FbxImporter</Importer>
       <Options>IntermediateFile, DontCacheImportedData</Options>
-      <Output>G:\OOP\TankGame 1.2\TankGame 1.2\TankGame\TankGame\obj\x86\Debug\Models\tankCabin_0.xml</Output>
-      <Time>2013-03-10T00:00:52.9551957+00:00</Time>
+      <Output>C:\Users\antoh\Documents\GitHub\tankGame\TankGame 1.0\TankGame\TankGame\obj\x86\Debug\Models\tankCabin_0.xml</Output>
+      <Time>2013-03-10T00:00:54+00:00</Time>
     </Item>
     <Item>
       <Source>Models\textures\tankInterior.jpg</Source>
@@ -463,15 +463,15 @@
         <Data Key="PremultiplyAlpha" Type="bool">true</Data>
       </Parameters>
       <Options>None</Options>
-      <Output>G:\OOP\TankGame 1.2\TankGame 1.2\TankGame\TankGame\bin\x86\Debug\Content\Models\textures\tankInterior_0.xnb</Output>
-      <Time>2013-02-28T03:02:41.6912307+00:00</Time>
+      <Output>C:\Users\antoh\Documents\GitHub\tankGame\TankGame 1.0\TankGame\TankGame\bin\x86\Debug\Content\Models\textures\tankInterior_0.xnb</Output>
+      <Time>2013-02-28T03:02:42+00:00</Time>
     </Item>
     <Item>
       <Source>Models\tank_Enemy.fbx</Source>
       <Importer>FbxImporter</Importer>
       <Options>IntermediateFile, DontCacheImportedData</Options>
-      <Output>G:\OOP\TankGame 1.2\TankGame 1.2\TankGame\TankGame\obj\x86\Debug\Models\tank_Enemy_0.xml</Output>
-      <Time>2013-04-19T01:40:40.7119376+01:00</Time>
+      <Output>C:\Users\antoh\Documents\GitHub\tankGame\TankGame 1.0\TankGame\TankGame\obj\x86\Debug\Models\tank_Enemy_0.xml</Output>
+      <Time>2013-04-19T01:40:42+01:00</Time>
     </Item>
     <Item>
       <Source>Models\textures\engine_diff_tex.tga</Source>
@@ -486,8 +486,8 @@
         <Data Key="PremultiplyAlpha" Type="bool">true</Data>
       </Parameters>
       <Options>None</Options>
-      <Output>G:\OOP\TankGame 1.2\TankGame 1.2\TankGame\TankGame\bin\x86\Debug\Content\Models\textures\engine_diff_tex_0.xnb</Output>
-      <Time>2013-04-19T00:19:30.7753932+01:00</Time>
+      <Output>C:\Users\antoh\Documents\GitHub\tankGame\TankGame 1.0\TankGame\TankGame\bin\x86\Debug\Content\Models\textures\engine_diff_tex_0.xnb</Output>
+      <Time>2013-04-19T00:19:32+01:00</Time>
     </Item>
     <Item>
       <Source>Models\textures\turret_alt_diff_tex.tga</Source>
@@ -502,15 +502,15 @@
         <Data Key="PremultiplyAlpha" Type="bool">true</Data>
       </Parameters>
       <Options>None</Options>
-      <Output>G:\OOP\TankGame 1.2\TankGame 1.2\TankGame\TankGame\bin\x86\Debug\Content\Models\textures\turret_alt_diff_tex_0.xnb</Output>
-      <Time>2013-04-19T00:20:25.9815508+01:00</Time>
+      <Output>C:\Users\antoh\Documents\GitHub\tankGame\TankGame 1.0\TankGame\TankGame\bin\x86\Debug\Content\Models\textures\turret_alt_diff_tex_0.xnb</Output>
+      <Time>2013-04-19T00:20:26+01:00</Time>
     </Item>
     <Item>
       <Source>Models\cannonBall.fbx</Source>
       <Importer>FbxImporter</Importer>
       <Options>IntermediateFile, DontCacheImportedData</Options>
-      <Output>G:\OOP\TankGame 1.2\TankGame 1.2\TankGame\TankGame\obj\x86\Debug\Models\cannonBall_0.xml</Output>
-      <Time>2013-04-19T14:39:27.4689448+01:00</Time>
+      <Output>C:\Users\antoh\Documents\GitHub\tankGame\TankGame 1.0\TankGame\TankGame\obj\x86\Debug\Models\cannonBall_0.xml</Output>
+      <Time>2013-04-19T14:39:28+01:00</Time>
     </Item>
     <Item>
       <Source>Models\textures\MetalBare0158_1_S.jpg</Source>
@@ -525,8 +525,8 @@
         <Data Key="PremultiplyAlpha" Type="bool">true</Data>
       </Parameters>
       <Options>None</Options>
-      <Output>G:\OOP\TankGame 1.2\TankGame 1.2\TankGame\TankGame\bin\x86\Debug\Content\Models\textures\MetalBare0158_1_S_0.xnb</Output>
-      <Time>2013-04-19T14:39:46.0090053+01:00</Time>
+      <Output>C:\Users\antoh\Documents\GitHub\tankGame\TankGame 1.0\TankGame\TankGame\bin\x86\Debug\Content\Models\textures\MetalBare0158_1_S_0.xnb</Output>
+      <Time>2013-04-19T14:39:48+01:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
@@ -535,10 +535,10 @@
       <TargetProfile>HiDef</TargetProfile>
       <BuildConfiguration>Debug</BuildConfiguration>
       <CompressContent>false</CompressContent>
-      <RootDirectory>G:\OOP\TankGame 1.2\TankGame 1.2\TankGame\TankGameContent\</RootDirectory>
-      <LoggerRootDirectory>G:\OOP\TankGame 1.2\TankGame 1.2\TankGame\TankGame\</LoggerRootDirectory>
-      <IntermediateDirectory>G:\OOP\TankGame 1.2\TankGame 1.2\TankGame\TankGame\obj\x86\Debug\</IntermediateDirectory>
-      <OutputDirectory>G:\OOP\TankGame 1.2\TankGame 1.2\TankGame\TankGame\bin\x86\Debug\Content\</OutputDirectory>
+      <RootDirectory>C:\Users\antoh\Documents\GitHub\tankGame\TankGame 1.0\TankGame\TankGameContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\antoh\Documents\GitHub\tankGame\TankGame 1.0\TankGame\TankGame\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\antoh\Documents\GitHub\tankGame\TankGame 1.0\TankGame\TankGame\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\antoh\Documents\GitHub\tankGame\TankGame 1.0\TankGame\TankGame\bin\x86\Debug\Content\</OutputDirectory>
     </Settings>
     <Assemblies>
       <Assembly>
@@ -566,8 +566,8 @@
         <Value>2011-09-01T17:22:30+01:00</Value>
       </Assembly>
       <Assembly>
-        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
-        <Value>2012-03-05T23:55:04.4194566+00:00</Value>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2017-02-03T20:06:08.5307218+00:00</Value>
       </Assembly>
     </Assemblies>
   </Asset>

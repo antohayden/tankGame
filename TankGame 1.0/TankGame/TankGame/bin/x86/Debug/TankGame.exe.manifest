@@ -93,14 +93,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="TankGame.exe" size="49152">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="TankGame.exe" size="48128">
       <assemblyIdentity name="TankGame" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>6T1bBfvRnLjnj3zNPUWZcEbN5o0=</dsig:DigestValue>
+        <dsig:DigestValue>YQIOKaGB7vq7f6XtxKAaT7f0+cc=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -464,13 +464,13 @@
       <dsig:DigestValue>l8Kvm3vyziMp0ixZ11JxJ6a/TKM=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Content\Sprites\GameOver.xnb" size="165038">
+  <file name="Content\Sprites\GameOver.xnb" size="169134">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>EuoQwCkqRvLR1aNgq0GeGlGnNtA=</dsig:DigestValue>
+      <dsig:DigestValue>Od2BI5kZVQ4Fndq/ekYw+/o4kfM=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Content\Sprites\mapBackground.xnb" size="640187">
@@ -491,13 +491,13 @@
       <dsig:DigestValue>tk1lIJ7HICo5sWQXrP7DX4mXX9U=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Content\Sprites\ScoreFont.xnb" size="27310">
+  <file name="Content\Sprites\ScoreFont.xnb" size="30894">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>fU47RpBhmmgJ9if8EFGshFCMuBY=</dsig:DigestValue>
+      <dsig:DigestValue>dxGaagIs7cpRntdE2rNQy/7Spmo=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Content\Sprites\Sunset.xnb" size="3840187">
@@ -509,13 +509,13 @@
       <dsig:DigestValue>jggyvD9sBP7kIBN0BhlWdSQqtpI=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Content\TerrainImg\Effect.xnb" size="10572">
+  <file name="Content\TerrainImg\Effect.xnb" size="10652">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>/nVkT2j0eit/IJRUee16uc8bK0Q=</dsig:DigestValue>
+      <dsig:DigestValue>MjYSYqufOE6RdKa63wRsF1aO9Zk=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Content\TerrainImg\heightmap.xnb" size="264383">
@@ -554,13 +554,13 @@
       <dsig:DigestValue>sYjEE1bVSAyW912pswwrhnEnkAw=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Content\TerrainImg\Test.xnb" size="24372">
+  <file name="Content\TerrainImg\Test.xnb" size="24612">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>Dv6ANpyRPO2pjYFEkfyoul2axIA=</dsig:DigestValue>
+      <dsig:DigestValue>uDg3cJk4Z4LsyMNdz/mgwnkYwz0=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Game.ico" size="4286">
