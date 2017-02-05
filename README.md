@@ -6,7 +6,7 @@ It used the (now deprecated) XNA game library for Visual Studio and was done to 
 The player tank model was created in  
 The project involved the use of heightmaps to generate terrain as well as some simple physics for the player controlled tank to move over it smoothly.
 It also included some basic collision detection in the form of the tank not being able to move past the walls in the terrain, as well as projectile interaction with enemy tanks.
-A build exists [here](https://github.com/antohayden/tankGame/tree/master/TankGame%201.0/TankGame/TankGame/publish)
+A build exists [here](http://antohayden.com/downloads/tankgame.zip)
 
 ###Description:
 3-D FPS: Player is situatated within a tank. Object is to kill as many enemies as possible before dying.
